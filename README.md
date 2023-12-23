@@ -16,6 +16,7 @@ Install dependencies: `pip install -r requirements.txt`
 
 Add the circuit_explorer package itself: `pip install -e .`
 
+Put imagenet data into `image_data`
 
 ## Important Files
 
